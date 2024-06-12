@@ -1,1 +1,2 @@
 File 1 test
+Add some changes to file1.txt
